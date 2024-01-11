@@ -1,0 +1,14 @@
+Trello
+
+02/11/2023 Meeting advancement
+frrom 2 to 3pm
+
+Let's take a look at my academic journey,
+After getting my baccalaureate degree, I studied for two years of preparatory studies I was happy solving maths problems after that I got ranked 91/1788 in the national exam for engineering cycle and I chose the Higher school of communication of Tunis (SUP COM) as my next university, I got two years rich on network's basics, The most used language(c,c++, python..), The mathematics hidden over Ai models, cloud basics and fundamental concepts about cyberSecurity field. Moreover, we had a project on Web/mobile development. 
+You can find the study plan of my first engineering school via this link: http://www.supcom.mincom.tn/Fr/plan-deetudes_11_268 
+However, during this summer, I have been honored to be an intern at Data for brands to work on Sentimental analysis using NLP models like camembert and the usual ML models. you will find my notebook via this link: https://www.kaggle.com/code/chihaouiimen/sentiment-analysis-nlp-with-labeled-dataset. 
+And now I am glad to say I have been selected for the double degree SUP COM/EURECOM to complete a post-master program and specialize in cybersecurity! 
+
+------------------------ I did a lot of research/studies and now it's time to the practice ! -------------------
+
+I want to expand my knowledge and skills in the areas of AI, cloud computing and cybersecurity. I am a highly energetic and enthusiastic person who can work under pressure and now i'm open for interesting opportunities !
