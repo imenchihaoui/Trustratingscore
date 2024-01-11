@@ -12,3 +12,4 @@ a programming language for smart contract
 ### Meta Mask:
 MetaMask is a cryptocurrency software wallet used to interact with the Ethereum blockchain. It allows users to access their Ethereum wallet through a browser extension or mobile app, which can then be used to interact with decentralized applications. 
 
+The subsequent phase involves containerizing the blockchain application using Docker, followed by deploying the containerized application to a Kubernetes cluster.
